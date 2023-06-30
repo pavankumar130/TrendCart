@@ -8,11 +8,19 @@ MongoDB
 
 ## Frontend Technologies:
 
+Node.js
+Express.js
+MongoDB
+
+## Frontend Technologies:
+
 HTML
 CSS
 JavaScript
 React
 Redux
+
+## Other Technologies:
 
 ## Other Technologies:
 
@@ -34,6 +42,8 @@ With an array of features, including a dynamic product catalog and smooth paymen
 
 ### Home Page
 
+### Home Page
+
 ![home1](https://github.com/pavankumar130/TrendCart/assets/122618703/9eb0f4bc-2a9f-4869-b771-2c3472a9cc9a)
 
 ![home2](https://github.com/pavankumar130/TrendCart/assets/122618703/6443ae05-003e-4f03-b767-9784b12c2f76)
@@ -45,10 +55,13 @@ With an array of features, including a dynamic product catalog and smooth paymen
 
 ### Admin Dashboard
 
-![admin](https://github.com/pavankumar130/TrendCart/assets/122618703/0b361aa3-cca9-4429-b55c-7600b4cf7665)
-![add](https://github.com/pavankumar130/TrendCart/assets/122618703/36ed824e-081e-45b1-9fa6-8b5ef33d8205)
-![stock manage](https://github.com/pavankumar130/TrendCart/assets/122618703/35c83803-e8e1-4d87-b053-72316f562467)
-<br><br><br><hr>
+### Admin Dashboard
+
+> > > > > > > e58374314372b80f2b9ee3385dbe2821913b6138
+> > > > > > > ![admin](https://github.com/pavankumar130/TrendCart/assets/122618703/0b361aa3-cca9-4429-b55c-7600b4cf7665)
+> > > > > > > ![add](https://github.com/pavankumar130/TrendCart/assets/122618703/36ed824e-081e-45b1-9fa6-8b5ef33d8205)
+> > > > > > > ![stock manage](https://github.com/pavankumar130/TrendCart/assets/122618703/35c83803-e8e1-4d87-b053-72316f562467)
+> > > > > > > <br><br><br><hr>
 
 ### All Categories
 
@@ -57,9 +70,43 @@ With an array of features, including a dynamic product catalog and smooth paymen
 
 ### All Products With Filters Options
 
-![all products 1](https://github.com/pavankumar130/TrendCart/assets/122618703/a7077734-62fa-41f1-8f03-3cd9a0ed0dfe)
-![all products 2](https://github.com/pavankumar130/TrendCart/assets/122618703/bd208a91-7b1f-4854-aad5-5b88f7218d72)
+### All Categories
+
+![categories](https://github.com/pavankumar130/TrendCart/assets/122618703/2dae4bb8-1de5-4540-a813-9ebacc345524)
 <br><br><br><hr>
+
+### All Products With Filters Options
+
+> > > > > > > e58374314372b80f2b9ee3385dbe2821913b6138
+> > > > > > > ![all products 1](https://github.com/pavankumar130/TrendCart/assets/122618703/a7077734-62fa-41f1-8f03-3cd9a0ed0dfe)
+> > > > > > > ![all products 2](https://github.com/pavankumar130/TrendCart/assets/122618703/bd208a91-7b1f-4854-aad5-5b88f7218d72)
+> > > > > > > <br><br><br><hr>
+
+### Add To Cart
+
+![add to cart](https://github.com/pavankumar130/TrendCart-Back-End/assets/122618703/a581e616-f7a9-459d-a9c4-b776e18ea069)
+<br><br><br><hr>
+
+### Cart
+
+![cart](https://github.com/pavankumar130/TrendCart-Back-End/assets/122618703/93ad24ba-781d-402b-941d-03f4091e15f5)
+<br><br><br><hr>
+
+### Order
+
+![order page](https://github.com/pavankumar130/TrendCart-Back-End/assets/122618703/e6fa7982-c356-4b7f-bb0c-ff820381831d)
+<br><br><br><hr>
+
+### Payment
+
+![stripe payment](https://github.com/pavankumar130/TrendCart-Back-End/assets/122618703/0bba7b9c-c707-486f-bf89-307af9315490)
+<br><br><br><hr>
+
+### Order Success
+
+![order success](https://github.com/pavankumar130/TrendCart-Back-End/assets/122618703/fa3dc3bb-cd41-45f5-aeb6-035c1972a147)
+<br><br><br><hr>
+=======
 
 ### Add To Cart
 
