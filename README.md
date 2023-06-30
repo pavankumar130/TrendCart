@@ -57,11 +57,10 @@ With an array of features, including a dynamic product catalog and smooth paymen
 
 ### Admin Dashboard
 
-> > > > > > > e58374314372b80f2b9ee3385dbe2821913b6138
-> > > > > > > ![admin](https://github.com/pavankumar130/TrendCart/assets/122618703/0b361aa3-cca9-4429-b55c-7600b4cf7665)
-> > > > > > > ![add](https://github.com/pavankumar130/TrendCart/assets/122618703/36ed824e-081e-45b1-9fa6-8b5ef33d8205)
-> > > > > > > ![stock manage](https://github.com/pavankumar130/TrendCart/assets/122618703/35c83803-e8e1-4d87-b053-72316f562467)
-> > > > > > > <br><br><br><hr>
+![admin](https://github.com/pavankumar130/TrendCart/assets/122618703/0b361aa3-cca9-4429-b55c-7600b4cf7665)
+![add](https://github.com/pavankumar130/TrendCart/assets/122618703/36ed824e-081e-45b1-9fa6-8b5ef33d8205)
+![stock manage](https://github.com/pavankumar130/TrendCart/assets/122618703/35c83803-e8e1-4d87-b053-72316f562467)
+<br><br><br><hr>
 
 ### All Categories
 
@@ -77,10 +76,10 @@ With an array of features, including a dynamic product catalog and smooth paymen
 
 ### All Products With Filters Options
 
-> > > > > > > e58374314372b80f2b9ee3385dbe2821913b6138
-> > > > > > > ![all products 1](https://github.com/pavankumar130/TrendCart/assets/122618703/a7077734-62fa-41f1-8f03-3cd9a0ed0dfe)
-> > > > > > > ![all products 2](https://github.com/pavankumar130/TrendCart/assets/122618703/bd208a91-7b1f-4854-aad5-5b88f7218d72)
-> > > > > > > <br><br><br><hr>
+e58374314372b80f2b9ee3385dbe2821913b6138
+![all products 1](https://github.com/pavankumar130/TrendCart/assets/122618703/a7077734-62fa-41f1-8f03-3cd9a0ed0dfe)
+![all products 2](https://github.com/pavankumar130/TrendCart/assets/122618703/bd208a91-7b1f-4854-aad5-5b88f7218d72)
+<br><br><br><hr>
 
 ### Add To Cart
 
