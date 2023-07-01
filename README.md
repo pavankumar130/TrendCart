@@ -34,7 +34,6 @@ TrendCart allows admins to easily manage the inventory by adding products, speci
 
 With an array of features, including a dynamic product catalog and smooth payment processing through Stripe, TrendCart provides a seamless shopping experience for customers, making it the go-to destination for all their fashion needs.
 
-### Home Page
 
 ### Home Page
 
@@ -47,7 +46,6 @@ With an array of features, including a dynamic product catalog and smooth paymen
 ![home4](https://github.com/pavankumar130/TrendCart/assets/122618703/1f1ea694-c0ec-4e4a-a02e-429a09b14383)
 <br><br><br><hr>
 
-### Admin Dashboard
 
 ### Admin Dashboard
 
@@ -64,7 +62,6 @@ With an array of features, including a dynamic product catalog and smooth paymen
 
 ### All Products With Filters Options
 
-e58374314372b80f2b9ee3385dbe2821913b6138
 ![all products 1](https://github.com/pavankumar130/TrendCart/assets/122618703/a7077734-62fa-41f1-8f03-3cd9a0ed0dfe)
 ![all products 2](https://github.com/pavankumar130/TrendCart/assets/122618703/bd208a91-7b1f-4854-aad5-5b88f7218d72)
 <br><br><br><hr>
