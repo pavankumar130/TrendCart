@@ -15,7 +15,6 @@ JavaScript
 React
 Redux
 
-## Other Technologies:
 
 ## Other Technologies:
 
