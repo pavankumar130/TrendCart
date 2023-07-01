@@ -6,11 +6,6 @@ Node.js
 Express.js
 MongoDB
 
-## Frontend Technologies:
-
-Node.js
-Express.js
-MongoDB
 
 ## Frontend Technologies:
 
